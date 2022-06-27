@@ -1,0 +1,13 @@
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ [K(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ [K(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ [K(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ ~test^?[K[K[K[K[K[Kprint[K[K[K[K[Kdef soup():te[K[Kreturn Truw[Ke
+bash: syntax error near unexpected token `('
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ def soup():return True[C[C
+bash: syntax error near unexpected token `('
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ 
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ 
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ 
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ ls
+intro_to_python.ipynb
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ cls
+bash: cls: command not found
+(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ clear
+[H[J(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ [K(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ [K(base) ]0;~/Ryan cuccurullo[01;34m~/Ryan cuccurullo[00m$ 
