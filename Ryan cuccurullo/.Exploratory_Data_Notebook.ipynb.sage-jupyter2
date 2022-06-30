@@ -1,4 +1,4 @@
-{"backend_state":"ready","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.8"}},"type":"settings"}
+{"backend_state":"init","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.8"}},"type":"settings"}
 {"cell_type":"code","exec_count":0,"id":"81ecbf","input":"","pos":69,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"fb70a3","input":"tuition.info()","metadata":{"vscode":{"languageId":"plaintext"}},"pos":18,"type":"cell"}
 {"cell_type":"code","exec_count":1,"id":"2dc48f","input":"","pos":5,"type":"cell"}
@@ -69,5 +69,5 @@
 {"cell_type":"markdown","id":"d27198","input":"After searching Manually, Northwestern College is in Iowa & Sterling College is in Kansas. <br> This shows the importance of double checking your data. <br> I will drop the 'state column' as the 'state_name' column is the accurate one and state_code is unnecessary.","pos":43,"type":"cell"}
 {"cell_type":"markdown","id":"ef1fea","input":"##### Using .head() [first 5 rows] and .tail() [last 5 rows] is a great way to get a first look at our data","pos":11,"type":"cell"}
 {"cell_type":"markdown","id":"fb9207","input":"First up, lets find the entries with no 'state' from tuition","pos":23,"type":"cell"}
-{"id":0,"time":1656437413092,"type":"user"}
+{"id":0,"time":1656525356371,"type":"user"}
 {"last_load":1656437414535,"type":"file"}
