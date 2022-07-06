@@ -52,5 +52,5 @@
 {"cell_type":"markdown","id":"fc653a","input":"### Visualize on the Fly with Pandas\n\nBefore we create mind\\-blowing visualizations, it is sometimes worth it to create quick visualizations to get ourselves oriented with the data and it's underlying patterns. \n\nI put a simple histogram below that helps me understand how the dataset is distributed. Notice that is is pretty hard to read and ugly, but it gets the job done for the data scientist. I now know that there are three species of penguin we are worried about, and that we have a lot more samples of the Adelie penguin than the Gentoo and Chinstrap \\(a good to know for machine learning\\). \n\n","pos":33,"type":"cell"}
 {"cell_type":"raw","id":"3d29c9","input":"Write up some descriptions for your findings here....\n\n\n\n","pos":51,"type":"cell"}
 {"cell_type":"raw","id":"45a090","input":"What do these columns mean?\n\nThe columns mean, organizational words that sets data into dependent categories.\n\n\n\n\n","pos":11,"type":"cell"}
-{"id":0,"time":1656527859581,"type":"user"}
-{"last_load":1656524419231,"type":"file"}
+{"id":0,"time":1656699160128,"type":"user"}
+{"last_load":1656686452692,"type":"file"}

@@ -55,5 +55,5 @@
 {"cell_type":"markdown","id":"f868d6","input":"### Step 2: Do your research\n\nWhat do the column names mean? At this point you should look up the meanings of any columns you don't know about and make some comments below. \n\nTypically at this point we would read up on the domain we are performing data analysis on. To do research on penguins you should probably get to know something about penguins!\n\n","pos":11,"type":"cell"}
 {"cell_type":"raw","id":"08ab6e","input":"What do these columns mean?\n\nstudy Name, sample Number: how to id the penguins\n\nspecies: what subspecies of penguin it is\n\nregion, island: where its from\n\ncluctch compleation, date egg: egg info\n\nculmen length/depth, flipper lenght, body mass, sex: info about the penguin phisially \nculmen is about the beack\n\nboth dealta things: about chemestry\n\n\n\n\n\n\n\n\n","pos":12,"type":"cell"}
 {"cell_type":"raw","id":"b80adf","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":54,"type":"cell"}
-{"id":0,"time":1656525900771,"type":"user"}
-{"last_load":1656517091407,"type":"file"}
+{"id":0,"time":1656600693430,"type":"user"}
+{"last_load":1656600003214,"type":"file"}

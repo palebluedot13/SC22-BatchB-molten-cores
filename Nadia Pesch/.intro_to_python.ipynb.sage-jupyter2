@@ -101,5 +101,5 @@
 {"cell_type":"markdown","id":"e47932","input":"**TODO:** Make an array from my\\_array of all \\-3's:\n\n","pos":82,"type":"cell"}
 {"cell_type":"markdown","id":"e4b26e","input":"The goal of this notebook is to provide students with knowledge of the fundamentals of python. We will take a more interactive approach than most class room settings and ask the students to do some research on their own then bring their learnings back here to share with the class. ","pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"ff9a64","input":"There are tons of different types of variables we can make. For this next section, we will ask the students to go out and figure out how to create the following types of variable: strings, floats and booleans. Once you have created these variables, try the same operations we used above and see what they do.","pos":14,"type":"cell"}
-{"id":0,"time":1656435893098,"type":"user"}
-{"last_load":1656428413900,"type":"file"}
+{"id":0,"time":1656692418122,"type":"user"}
+{"last_load":1656602579790,"type":"file"}
