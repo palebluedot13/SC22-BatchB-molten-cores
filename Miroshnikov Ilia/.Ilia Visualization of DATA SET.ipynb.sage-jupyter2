@@ -11,5 +11,5 @@
 {"cell_type":"code","exec_count":78,"id":"16c39f","input":"fig2 = px.bar(music_dataframe, x='key', y = 'popularity')\nfig2.show()","output":{"0":{"data":{"iframe":"52fb9dc7261309bf7f4a25eaddaefb52adfe95a1"},"exec_count":78,"output_type":"execute_result"}},"pos":6,"scrolled":true,"type":"cell"}
 {"cell_type":"code","exec_count":85,"id":"cbdbfb","input":"# Column names:\n\nmusic_dataframe.columns","output":{"0":{"data":{"text/plain":"Index(['instance_id', 'artist_name', 'track_name', 'popularity',\n       'acousticness', 'danceability', 'duration_ms', 'energy',\n       'instrumentalness', 'key', 'liveness', 'loudness', 'mode',\n       'speechiness', 'tempo', 'obtained_date', 'valence', 'music_genre'],\n      dtype='object')"},"exec_count":85,"output_type":"execute_result"}},"pos":1,"type":"cell"}
 {"cell_type":"code","exec_count":95,"id":"2f0a04","input":"# Only import libaries here.\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\nimport plotly.express as px\nimport seaborn as sns","pos":0,"type":"cell"}
-{"id":0,"time":1657213942876,"type":"user"}
-{"last_load":1657204347326,"type":"file"}
+{"id":0,"time":1657296107760,"type":"user"}
+{"last_load":1657299660892,"type":"file"}

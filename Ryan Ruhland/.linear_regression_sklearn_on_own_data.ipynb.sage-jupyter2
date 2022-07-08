@@ -38,5 +38,5 @@
 {"cell_type":"markdown","id":"f6be09","input":"# Linear Regression with Scikit-learn's linear regression\n\nWe can use Scikit-Learn’s Linear Regression to fit the model. Most other models we will use in the course \n\nhttps://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html","metadata":{"id":"cbeaQMpna-sR"},"pos":12,"type":"cell"}
 {"cell_type":"markdown","id":"f75e03","input":"### Creating and Fitting","metadata":{"id":"e1m-wKeYsFEl"},"pos":17,"type":"cell"}
 {"cell_type":"markdown","id":"fd4109","input":"### Creating Predictions\nPredict outputs on our x_test data that we held out. Think of this as a way to see how the model does on new data!","metadata":{"id":"QFb-_EiFrvzQ"},"pos":19,"type":"cell"}
-{"id":0,"time":1657116883536,"type":"user"}
-{"last_load":1657116883329,"type":"file"}
+{"id":0,"time":1657296140328,"type":"user"}
+{"last_load":1657299660612,"type":"file"}
