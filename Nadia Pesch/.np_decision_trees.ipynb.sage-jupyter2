@@ -26,5 +26,5 @@
 {"cell_type":"code","exec_count":0,"id":"eb644e","input":"import pandas as pd\nimport numpy as np\nfrom sklearn.tree import DecisionTreeClassifier # Import Decision Tree Classifier\nfrom sklearn.model_selection import train_test_split # Import train_test_split function\nfrom sklearn import metrics #Import scikit-learn metrics module for accuracy calculation","pos":1,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"ec9b8e","input":"","pos":23,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"f49cee","input":"tree.plot_tree(clf)","pos":22,"type":"cell"}
-{"id":0,"time":1657295357583,"type":"user"}
-{"last_load":1657299737388,"type":"file"}
+{"id":0,"time":1657550686998,"type":"user"}
+{"last_load":1657550683956,"type":"file"}
